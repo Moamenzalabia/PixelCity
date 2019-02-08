@@ -5,7 +5,7 @@ and download  number of images for location that selected on map using Alamofire
 
 ![1](https://user-images.githubusercontent.com/28659588/52471939-c9140080-2b9a-11e9-9997-b693f7fc5b02.png)
 
-firs view when run app
+first view when run app
 
 ![2](https://user-images.githubusercontent.com/28659588/52471940-ca452d80-2b9a-11e9-8c0b-ccc5603a3af8.png)
 
