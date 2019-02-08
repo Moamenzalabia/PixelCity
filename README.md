@@ -3,9 +3,6 @@ this application show some images for your current location using flicker api th
 and download  number of images for location that selected on map using Alamofire and AlamofireImage library
 
 
-
-
-[
 ![1](https://user-images.githubusercontent.com/28659588/52471939-c9140080-2b9a-11e9-9997-b693f7fc5b02.png)
 
 firs view when run app
@@ -13,7 +10,7 @@ firs view when run app
 ![2](https://user-images.githubusercontent.com/28659588/52471940-ca452d80-2b9a-11e9-8c0b-ccc5603a3af8.png)
 
 
-if user select location
+if user select location drow an Annotation   
 
 ![3](https://user-images.githubusercontent.com/28659588/52471941-ca452d80-2b9a-11e9-80a2-b85a9904018e.png)
 
@@ -43,6 +40,3 @@ if he want to end process and cancel downloading process cancel view that includ
 
 
 
-
-
-](url)
